@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabio (aka Fabritscio)
--     I attended Grey College High School in Bloemfontein, South Africa
+-     I attended Grey College in Bloemfontein, South Africa
 -     I have incredible work ethic, abnormal high-drive and ability to adapt to different situations
 - 👀 I’m interested in software programming, collaborating with like minded people on different projects
 -     We are all here to find solutions
